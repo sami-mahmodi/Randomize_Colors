@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.text-center {
+  text-align: center;
+}
+.title {
+  font-size: 4rem;
+  font-weight: 800;
+}
+.btn {
+  background-color: black;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: large;
+  font-weight: 400;
+  color: white;
+}
+.btn-danger {
+  background-color: rgb(182, 7, 7);
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: large;
+  font-weight: 400;
+  color: white;
+  border: none;
+}
+.btn-success {
+  background-color: rgb(8, 122, 52);
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: large;
+  font-weight: 400;
+  color: white;
+  border: none;
+}
+.btn-primary {
+  background-color: rgb(43, 77, 192);
+  border-radius: 8px;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: large;
+  font-weight: 400;
+  color: white;
+}
+.mr {
+  margin-right: 0.5rem;
+}
+.mb {
+  margin-bottom: 0.5rem;
+}
+.mt {
+  margin-top: 0.5rem;
+}
+.ml {
+  margin-left: 0.5rem;
+}
+
+.margin {
+  margin: 0.5rem;
+}
