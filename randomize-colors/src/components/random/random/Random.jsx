@@ -31,7 +31,7 @@ export default function Random() {
       <button className="btn-primary margin" onClick={(e) => handleClick(e)}>
         Click Me
       </button>
-      <button className="btn margin" onClick={(e) => handleClick(e)}>
+      <button className=" btn-primary margin" onClick={(e) => handleClick(e)}>
         Click Me
       </button>
     </div>
