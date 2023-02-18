@@ -23,16 +23,16 @@ export default function Random() {
     <div className="random-div">
       <Title text={"Randomize Colors"} classes="" />
       <button className="btn-danger margin" onClick={(e) => handleClick(e)}>
-        Click Me
+        Generate Colors
       </button>
       <button className="btn-success margin" onClick={(e) => handleClick(e)}>
-        Click Me
+        Generate Colors
       </button>
       <button className="btn-primary margin" onClick={(e) => handleClick(e)}>
-        Click Me
+        Generate Colors
       </button>
       <button className=" btn-primary margin" onClick={(e) => handleClick(e)}>
-        Click Me
+        Generate Colors
       </button>
     </div>
   );
